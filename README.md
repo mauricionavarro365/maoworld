@@ -1,4 +1,5 @@
 # maoworld
 My first repository on GitHub.
 I'm fascinated with this course! 
-As I go, I will make sure each task or new tool, or leaning has a different branch. Trying to be organized. 
+As I go, I will make sure each task or new tool, or leaning has a different branch. 
+im a business continuation manager 
